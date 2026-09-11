@@ -1,3 +1,8 @@
 1. Create git repo and clone it in local.
 2. Create code.py and add code to it
 3. git commit push
+4. dvc install
+5. dvc init
+6. create new dir named s3 'mkdir s3'
+7. dvc remote add -d myremote s3
+8. dvc add data/
